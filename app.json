@@ -1,0 +1,14 @@
+{
+    "name": "slack-botkit-cron-bot",
+    "description": "最小限構成Bot",
+    "keywords": ["slack", "chatbot"],
+    "repository": "https://github.com/tac-tic-s/slack-botkit-cron-bot",
+    "env": {
+        "token": {
+            "description": "Slack bot token"
+        }
+    },
+    "addons": [
+        "scheduler"
+    ]
+}

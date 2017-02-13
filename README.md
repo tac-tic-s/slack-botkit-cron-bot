@@ -1,5 +1,5 @@
 # slack-botkit-cron-bot
-Botkitを用いた最小限構成のcronで実行されるBotサンプル
+Heroku(Node.js)とBotkitを用いたcronで実行される最小限構成のBotサンプル
 
 ## 詳細
 
